@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer_finance.iml" filepath="$PROJECT_DIR$/consumer_finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consumer_finance/finance_base/finance_base.iml" filepath="$PROJECT_DIR$/../consumer_finance/finance_base/finance_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consumer_finance/finance_code/finance_code.iml" filepath="$PROJECT_DIR$/../consumer_finance/finance_code/finance_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consumer_finance/finance_eureka/finance_eureka.iml" filepath="$PROJECT_DIR$/../consumer_finance/finance_eureka/finance_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consumer_finance/finance_user/finance_user.iml" filepath="$PROJECT_DIR$/../consumer_finance/finance_user/finance_user.iml" />
+    </modules>
+  </component>
+</project>
